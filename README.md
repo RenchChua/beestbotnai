@@ -61,4 +61,4 @@ For mac users, in your terminal, type: BOT_API_KEY=your_slack_api_key node bin/b
 
 - Learnt basics of building a chatbot for slack from this really good resource by [Luciano Mammimo] (https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers)
 
-- Luqman for providing a fresh pair of eyes to look at code and giving ideas. 
+- Luqman for providing a fresh pair of eyes to look at code, giving ideas, and helping to test Marvbot's ability to give stars.
