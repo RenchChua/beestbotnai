@@ -4,7 +4,7 @@
 
 ## Introduction
 
-A Slack chatbot that doesn't really do much other than giving you grief. It's depressed. It has gone through much. Many lifetimes of the universe. It's cranky. Pardon it. One thing it can do though - it can help you give other people stars. To talk to it, just type "Marvbot".
+A Slack chatbot that doesn't really do much other than giving you grief. It's depressed. It has gone through much. Many lifetimes of the universe. It's cranky. Pardon it. One thing it can do though - it can help you give other people stars. To talk to it, just type "Marvbot" in the message that you want Marvbot to respond to.
 
 ## Features
 
