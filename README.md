@@ -49,6 +49,7 @@ For mac users, in your terminal, type: BOT_API_KEY=your_slack_api_key node bin/b
 
 - Utilise a natural language processing system that can be trained for a better, more responsive bot.
 - Improve the star system to reflect why you are thanking a person.
+- Add tests.
 
 ## Tech Stack
 
