@@ -6,4 +6,4 @@ var db = new sqlite3.Database(outputFile);
 
  db.run('CREATE TABLE IF NOT EXISTS info (name TEXT PRIMARY KEY, val TEXT DEFAULT NULL)');
 
- db.run('CREATE TABLE IF NOT EXISTS stars (name TEXT PRIMARY KEY, val INTEGER DEFAULT NULL)');
+ db.run('CREATE TABLE IF NOT EXISTS stars (name TEXT PRIMARY KEY, val INTEGER DEFAULT NULL, reason TEXT DEFAULT NULL, date TEXT DEFAULT NULL)');
